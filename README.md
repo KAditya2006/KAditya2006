@@ -26,15 +26,15 @@
 
 <p align="left">
 
-<a href="https://github.com/developergtm24">
+<a href="https://github.com/KAditya2006">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="https://www.instagram.com/developergtm">
+<a href="https://www.instagram.com/i_m_aditya_29">
 <img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/developergtm">
+<a href="https://www.linkedin.com/in/aditya-kumar-choudhary-059514349/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
